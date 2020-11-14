@@ -53,7 +53,7 @@ will be published as part of the ICST proceedings.
 - Submission of full papers: 10th January, 2021
 - Notification of acceptance: 31st January, 2021
 - Camera ready: 20th February, 2021
-- Workshop date: TBD 
+- Workshop date: 12th April, 2021 
 
 ## Organization
 
