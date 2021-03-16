@@ -8,7 +8,7 @@ modal-id: 2
 img: 
 thumbnail: 
 alt: Dan Hao
-website:  https://icst2020.info/profile/danhao
+website: http://sei.pku.edu.cn/~haod/
 topic: >
  Mutation for Compiler Testing
 abstract: >
