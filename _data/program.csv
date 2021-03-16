@@ -1,1 +1,15 @@
 Time,Title,Authors,Type
+(GMT-3 Time),,,
+09:00-09:10,Welcome,Chairs,
+09:10-10:00,Invited talk 1,Prof. Dan Hao (Peking University: http://sei.pku.edu.cn/~haod/),
+10:00-10:50,Session 1,Session Chair:  Jie Zhang,
+,"Efficiently Sampling Higher Order Mutants Using Causal Effect", Saeyoon Oh and Seongmin Lee and Shin Yoo, Long
+,"Inducing Subtle Mutations with Program Repair", Florian Schwander and Rahul Gopinath and Andreas Zeller (Best paper award), Long
+,"Automatic Equivalent Mutants Classification Using Abstract Syntax Tree Neural Networks", Samuel Peacock and Lin Deng and Josh Dehlinger and Suranjan Chakraborty, Long
+10:50-11:00,Break (10 min),,
+11:00-11:50,Invited Talk 2,Moritz Beller (Facebook: https://inventitech.com/)
+11:50-12:00,Awarding session,,
+12:00-12:30,Session 2,Session Chair: Amin Alipour,
+,"Random Selection Might Just be Indomitable",Rowland Pitts, Long
+,"MutantBench: an Equivalent Mutant Problem Comparison Framework",Lars van Hijfte and Ana Oprescu, Long
+12:30,Concluding Remarks,,
