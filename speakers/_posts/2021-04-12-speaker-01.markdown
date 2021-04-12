@@ -5,7 +5,7 @@ position: Associate Professor
 affiliation: Peking University
 layout: default
 modal-id: 2
-img: 
+img: danhao.jpg
 thumbnail: 
 alt: Dan Hao
 website: http://sei.pku.edu.cn/~haod/
