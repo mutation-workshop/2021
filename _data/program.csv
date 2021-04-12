@@ -1,15 +1,15 @@
-Time,Title,Speakers/Authors
-(GMT-3 Time),,
-09:00-09:10,Welcome,
-09:10-10:00,Keynote 1: Mutation for Compiler Testing,Prof. Dan Hao
-10:00-10:50,Session 1,Session Chair:  Jie Zhang
-,"Efficiently Sampling Higher Order Mutants Using Causal Effect", Saeyoon Oh and Seongmin Lee and Shin Yoo
-,"Inducing Subtle Mutations with Program Repair", Florian Schwander and Rahul Gopinath and Andreas Zeller
-,"Automatic Equivalent Mutants Classification Using Abstract Syntax Tree Neural Networks", Samuel Peacock and Lin Deng and Josh Dehlinger and Suranjan Chakraborty
-10:50-11:00,Break (10 min),
-11:00-11:50,Keynote 2: What It Would Take to Use Mutation Testing in Industry,Moritz Beller
-11:50-12:00,Awarding session,
-12:00-12:30,Session 2,Session Chair: Amin Alipour
-,"Random Selection Might Just be Indomitable", Rowland Pitts
-,"MutantBench: an Equivalent Mutant Problem Comparison Framework",Lars van Hijfte and Ana Oprescu
-12:30,Concluding Remarks,
+Time,Title,Speakers/Authors,Type
+(GMT-3 Time),,,
+09:00-09:10,Welcome,,
+09:10-10:00, "<i>Keynote 1</i>: Mutation for Compiler Testing", Prof. Dan Hao,
+10:00-10:50, Session 1, "Session Chair:  Jie Zhang, <br/>
+Efficiently Sampling Higher Order Mutants Using Causal Effect -- Saeyoon Oh and Seongmin Lee and Shin Yoo<br/>
+Inducing Subtle Mutations with Program Repair -- Florian Schwander and Rahul Gopinath and Andreas Zeller<br/>
+Automatic Equivalent Mutants Classification Using Abstract Syntax Tree Neural Networks -- Samuel Peacock and Lin Deng and Josh Dehlinger and Suranjan Chakraborty<br/>"
+10:50-11:00,Break (10 min),,
+11:00-11:50,"<i>Keynote 2</i>: What It Would Take to Use Mutation Testing in Industry", Moritz Beller,
+11:50-12:00, Awarding session,,
+12:00-12:30,Session 2, "Session Chair: Amin Alipour <br/>
+Random Selection Might Just be Indomitable -- Rowland Pitts<br/>
+MutantBench: an Equivalent Mutant Problem Comparison Framework --Lars van Hijfte and Ana Oprescu<br/>"
+12:30,Concluding Remarks,,
