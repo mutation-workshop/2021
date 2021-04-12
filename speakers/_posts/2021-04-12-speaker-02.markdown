@@ -6,7 +6,7 @@ affiliation: Facebook
 layout: default
 modal-id: 2
 img: moritzbeller.jpg
-thumbnail: 
+thumbnail: moritzbeller.jpg
 alt: Moritz Beller
 website: https://inventitech.com/ 
 topic: >
