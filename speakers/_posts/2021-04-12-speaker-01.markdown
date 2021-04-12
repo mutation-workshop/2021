@@ -6,7 +6,7 @@ affiliation: Peking University
 layout: default
 modal-id: 2
 img: danhao.jpg
-thumbnail: 
+thumbnail: danhao.jpg
 alt: Dan Hao
 website: http://sei.pku.edu.cn/~haod/
 topic: >
