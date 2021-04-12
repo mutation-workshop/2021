@@ -5,7 +5,7 @@ position: Software Engineering Researcher
 affiliation: Facebook
 layout: default
 modal-id: 2
-img: 
+img: moritzbeller.jpg
 thumbnail: 
 alt: Moritz Beller
 website: https://inventitech.com/ 
